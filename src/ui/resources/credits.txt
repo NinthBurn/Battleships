@@ -1,0 +1,28 @@
+Textures:
+ Taken from OTEX, a texture pack made by Ola Björling (ukiro).
+ https://doom.ukiro.com/otex-downloads/
+
+
+Sound effects:
+	Explosion sound effect (by FlashTrauma) 
+	 https://pixabay.com/sound-effects/explosion-6055/
+
+	Splash sound effect (by blaukreuz)
+	 https://pixabay.com/sound-effects/search/splash/
+
+https://pixabay.com/service/license/
+
+
+Background picture (by Kellie Churchman)
+ https://www.pexels.com/photo/landscape-photograph-of-body-of-water-1001682/
+ 
+https://www.pexels.com/license/
+
+
+Music composed by Kevin MacLeod (incompetech.com)
+1 - Clash Defiant
+2 - Exotic Battle
+3 - Mystic Force
+4 - Mountain Emperor
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
