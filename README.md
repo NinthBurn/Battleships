@@ -1,5 +1,6 @@
 # Battleships Python Game
-**Battleships** board game with fancy graphics and effects, written in *Python*.
+**Battleships** board game with fancy graphics and effects, written in *Python*. Created using Pygame.
+
 Game is played against a intelligent computer AI opponent, which has been programmed to have multiple options for difficulty:
   * easy: opponent makes a random choice each time
   * normal: opponent makes a random choice each time; if it hits a ship, it will pursue in destroying that ship
